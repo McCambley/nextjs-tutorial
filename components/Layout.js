@@ -4,7 +4,7 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Jake McCambley";
+const name = "George McCambley";
 export const siteTitle = "Jake's first Next.js";
 
 export default function Layout({ children, home }) {
